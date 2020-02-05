@@ -1,5 +1,5 @@
 ## Live Project:
-<a href="https://portfolio-socialmedia2.web.app/" target="_blank">example</a>
+Hold CTRL and click <a href="https://portfolio-socialmedia2.web.app/" target="_blank">here</a>
 
 ## 1: Install packages
 
